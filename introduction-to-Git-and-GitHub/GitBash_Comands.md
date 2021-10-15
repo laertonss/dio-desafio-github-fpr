@@ -1,5 +1,7 @@
 # Comandos usados no Git Bash :desktop_computer:
 
+## Lista de comandos utilizados durante os cursos de Git / GitHub na DIO
+
 - **git config --global user.name "username"**
 
   *Seta o nome do usuário nas configurações (arquivo config) do git*
